@@ -30,7 +30,11 @@
     </Item>
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
-        <ActiveDocument />
+        <OpenedDocuments>
+          <FilePathData Path="app/part/mjmatch/detail/res/DetailMatchLayer-UI.csd" />
+          <FilePathData Path="app/part/mjmatch/select/res/SelectMatchLayer-UI.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="app/part/mjmatch/select/res/SelectMatchLayer-UI.csd" />
       </Value>
     </Item>
   </Properties>
