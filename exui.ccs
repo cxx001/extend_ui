@@ -2,7 +2,85 @@
   <PropertyGroup Name="exui" Version="3.10.0.0" Type="CocosStudio" />
   <SolutionFolder>
     <Group ctype="ResourceGroup">
-      <RootFolder Name="." />
+      <RootFolder Name=".">
+        <Folder Name="app">
+          <Folder Name="part">
+            <Folder Name="broadcast">
+              <Folder Name="res">
+                <Project Name="BroadcastNode-UI.csd" Type="Node" />
+                <Image Name="pmdbg.png" />
+                <Image Name="xiaolaba.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="mjmatch">
+              <Folder Name="detail">
+                <Folder Name="res">
+                  <Image Name="detailMatch_1.png" />
+                  <Image Name="detailMatch_10.png" />
+                  <Image Name="detailMatch_11.png" />
+                  <Image Name="detailMatch_12.png" />
+                  <Image Name="detailMatch_13.png" />
+                  <Image Name="detailMatch_14.png" />
+                  <Image Name="detailMatch_15.png" />
+                  <Image Name="detailMatch_16.png" />
+                  <Image Name="detailMatch_17.png" />
+                  <Image Name="detailMatch_18.png" />
+                  <Image Name="detailMatch_19.png" />
+                  <Image Name="detailMatch_2.png" />
+                  <Image Name="detailMatch_20.png" />
+                  <Image Name="detailMatch_3.png" />
+                  <Image Name="detailMatch_4.png" />
+                  <Image Name="detailMatch_5.png" />
+                  <Image Name="detailMatch_6.png" />
+                  <Image Name="detailMatch_7.png" />
+                  <Image Name="detailMatch_8.png" />
+                  <Image Name="detailMatch_9.png" />
+                  <Image Name="detailMatch_a1.png" />
+                  <Image Name="detailMatch_a2.png" />
+                  <Image Name="detailMatch_a3.png" />
+                  <Project Name="DetailMatchLayer-UI.csd" Type="Layer" />
+                </Folder>
+              </Folder>
+              <Folder Name="select">
+                <Folder Name="res">
+                  <PlistInfo Name="match_select_picture.csi" Type="Plist" />
+                  <Image Name="selectMatch_1.png" />
+                  <Image Name="selectMatch_10.png" />
+                  <Image Name="selectMatch_11.png" />
+                  <Image Name="selectMatch_12.png" />
+                  <Image Name="selectMatch_13.png" />
+                  <Image Name="selectMatch_16.png" />
+                  <Image Name="selectMatch_17.png" />
+                  <Image Name="selectMatch_18.png" />
+                  <Image Name="selectMatch_19.png" />
+                  <Image Name="selectMatch_2.png" />
+                  <Image Name="selectMatch_20.png" />
+                  <Image Name="selectMatch_24.png" />
+                  <Image Name="selectMatch_25.png" />
+                  <Image Name="selectMatch_3.png" />
+                  <Image Name="selectMatch_33.png" />
+                  <Image Name="selectMatch_34.png" />
+                  <Image Name="selectMatch_35.png" />
+                  <Image Name="selectMatch_6.png" />
+                  <Image Name="selectMatch_7.png" />
+                  <Image Name="selectMatch_8.png" />
+                  <Image Name="selectMatch_9.png" />
+                  <Image Name="selectMatch_a1.png" />
+                  <Image Name="selectMatch_a2.png" />
+                  <Image Name="selectMatch_a3.png" />
+                  <Image Name="selectMatch_a4.png" />
+                  <Image Name="selectMatch_a5.png" />
+                  <Image Name="selectMatch_a6.png" />
+                  <Project Name="SelectMatchLayer-UI.csd" Type="Layer" />
+                </Folder>
+              </Folder>
+            </Folder>
+          </Folder>
+        </Folder>
+        <Folder Name="font">
+          <TTF Name="msyh.ttf" />
+        </Folder>
+      </RootFolder>
     </Group>
   </SolutionFolder>
 </Solution>
