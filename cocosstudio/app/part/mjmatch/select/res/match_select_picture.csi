@@ -1,0 +1,32 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="match_select_picture" Type="Plist" ID="54ef4683-b305-41fc-8030-afb8cbe0e260" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_1.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_10.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_11.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_12.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_13.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_16.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_17.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_18.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_19.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_2.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_20.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_3.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_33.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_34.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_35.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_7.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_8.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_9.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_a1.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_a2.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_a3.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_a4.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_a5.png" />
+      <FilePathData Path="app/part/mjmatch/select/res/selectMatch_a6.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
