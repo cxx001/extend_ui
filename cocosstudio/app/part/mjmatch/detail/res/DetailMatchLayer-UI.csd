@@ -35,7 +35,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.6031" />
                     <PreSize X="0.2206" Y="0.5361" />
-                    <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_11.png" Plist="" />
+                    <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_11.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -73,7 +73,7 @@
                             <CColor A="255" R="255" G="255" B="255" />
                             <PrePosition X="0.5000" Y="0.5000" />
                             <PreSize X="1.0000" Y="1.0000" />
-                            <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_2.png" Plist="" />
+                            <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_2.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -100,7 +100,7 @@
                             <CColor A="255" R="255" G="255" B="255" />
                             <PrePosition X="0.5000" Y="0.5000" />
                             <PreSize X="1.0000" Y="1.0000" />
-                            <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_3.png" Plist="" />
+                            <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_3.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -127,7 +127,7 @@
                             <CColor A="255" R="255" G="255" B="255" />
                             <PrePosition X="0.5000" Y="0.5000" />
                             <PreSize X="1.0000" Y="1.0000" />
-                            <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_5.png" Plist="" />
+                            <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_5.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -154,7 +154,7 @@
                             <CColor A="255" R="255" G="255" B="255" />
                             <PrePosition X="0.5000" Y="0.5000" />
                             <PreSize X="1.0000" Y="1.0000" />
-                            <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_7.png" Plist="" />
+                            <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_7.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -365,7 +365,17 @@
                   <AbstractNodeData Name="Button_state" ActionTag="939046048" Tag="47" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="314.0000" RightMargin="314.0000" TopMargin="441.8460" BottomMargin="-101.8460" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="136" Scale9Height="68" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="166.0000" Y="90.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_fee" Visible="False" ActionTag="-464621561" Tag="48" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="91.2408" RightMargin="61.7592" TopMargin="9.5590" BottomMargin="55.4410" FontSize="25" LabelText="1" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                      <AbstractNodeData Name="Image_type" ActionTag="-1608280941" Tag="85" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="46.9968" RightMargin="89.0032" TopMargin="10.0030" BottomMargin="51.9970" LeftEage="15" RightEage="15" TopEage="9" BottomEage="9" Scale9OriginX="15" Scale9OriginY="9" Scale9Width="1" Scale9Height="10" ctype="ImageViewObjectData">
+                        <Size X="30.0000" Y="28.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="61.9968" Y="65.9970" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.3735" Y="0.7333" />
+                        <PreSize X="0.1807" Y="0.3111" />
+                        <FileData Type="MarkedSubImage" Path="app/part/mjmatch/select/res/selectMatch_35.png" Plist="app/part/mjmatch/select/res/match_select_picture.plist" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="Text_fee" ActionTag="-464621561" Tag="48" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="91.2408" RightMargin="61.7592" TopMargin="9.5590" BottomMargin="55.4410" FontSize="25" LabelText="1" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                         <Size X="13.0000" Y="25.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="97.7408" Y="67.9410" />
@@ -376,7 +386,7 @@
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="AtlasLabel_preTime" ActionTag="-1877252965" Tag="49" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="50.0010" RightMargin="91.9990" TopMargin="53.5020" BottomMargin="21.4980" CharWidth="12" CharHeight="15" LabelText="00" StartChar="0" ctype="TextAtlasObjectData">
+                      <AbstractNodeData Name="AtlasLabel_preTime" Visible="False" ActionTag="-1877252965" Tag="49" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="50.0010" RightMargin="91.9990" TopMargin="53.5020" BottomMargin="21.4980" CharWidth="12" CharHeight="15" LabelText="00" StartChar="0" ctype="TextAtlasObjectData">
                         <Size X="24.0000" Y="15.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="62.0010" Y="28.9980" />
@@ -395,8 +405,8 @@
                     <PreSize X="0.2091" Y="0.2093" />
                     <TextColor A="255" R="65" G="65" B="70" />
                     <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                    <PressedFileData Type="MarkedSubImage" Path="app/part/mjmatch/select/res/selectMatch_3.png" Plist="app/part/mjmatch/select/res/match_select_picture.plist" />
-                    <NormalFileData Type="MarkedSubImage" Path="app/part/mjmatch/select/res/selectMatch_3.png" Plist="app/part/mjmatch/select/res/match_select_picture.plist" />
+                    <PressedFileData Type="MarkedSubImage" Path="app/part/mjmatch/select/res/selectMatch_1.png" Plist="app/part/mjmatch/select/res/match_select_picture.plist" />
+                    <NormalFileData Type="MarkedSubImage" Path="app/part/mjmatch/select/res/selectMatch_1.png" Plist="app/part/mjmatch/select/res/match_select_picture.plist" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -407,9 +417,9 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.2430" Y="0.8606" />
                 <PreSize X="0.7448" Y="0.6869" />
-                <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_14.png" Plist="" />
+                <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_14.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="ListView_rootAward" Visible="False" ActionTag="-1725130356" Tag="68" IconVisible="False" LeftMargin="259.0200" RightMargin="12.9800" TopMargin="86.6794" BottomMargin="19.3205" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ScrollDirectionType="0" ItemMargin="5" DirectionType="Vertical" ctype="ListViewObjectData">
+              <AbstractNodeData Name="ListView_rootAward" Visible="False" ActionTag="-1725130356" Tag="68" IconVisible="False" LeftMargin="259.0200" RightMargin="12.9800" TopMargin="86.6795" BottomMargin="19.3205" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ScrollDirectionType="0" ItemMargin="5" DirectionType="Vertical" ctype="ListViewObjectData">
                 <Size X="794.0000" Y="520.0000" />
                 <AnchorPoint />
                 <Position X="259.0200" Y="19.3205" />
@@ -436,7 +446,7 @@
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5000" Y="0.5000" />
                         <PreSize X="0.1436" Y="0.5455" />
-                        <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_9.png" Plist="" />
+                        <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_9.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                       </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -445,12 +455,12 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.9463" />
                     <PreSize X="1.0000" Y="0.1058" />
-                    <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_15.png" Plist="" />
+                    <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_15.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_13" ActionTag="-410869028" Tag="203" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="38.9999" RightMargin="39.0001" TopMargin="106.7248" BottomMargin="124.2752" LeftEage="236" RightEage="236" TopEage="95" BottomEage="95" Scale9OriginX="236" Scale9OriginY="95" Scale9Width="244" Scale9Height="99" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_13" ActionTag="-410869028" Tag="203" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="39.0000" RightMargin="39.0000" TopMargin="106.7248" BottomMargin="124.2752" LeftEage="236" RightEage="236" TopEage="95" BottomEage="95" Scale9OriginX="236" Scale9OriginY="95" Scale9Width="244" Scale9Height="99" ctype="ImageViewObjectData">
                     <Size X="716.0000" Y="289.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="396.9999" Y="268.7752" />
+                    <Position X="397.0000" Y="268.7752" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.5169" />
@@ -464,33 +474,33 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.2430" Y="0.8606" />
                 <PreSize X="0.7448" Y="0.8307" />
-                <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_14.png" Plist="" />
+                <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_14.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
               </AbstractNodeData>
               <AbstractNodeData Name="Image_rootBest" ActionTag="1406509191" Tag="204" IconVisible="False" LeftMargin="259.0200" RightMargin="12.9800" TopMargin="87.2700" BottomMargin="18.7300" Scale9Enable="True" LeftEage="16" RightEage="16" TopEage="16" BottomEage="16" Scale9OriginX="16" Scale9OriginY="16" Scale9Width="18" Scale9Height="18" ctype="ImageViewObjectData">
                 <Size X="794.0000" Y="520.0000" />
                 <Children>
-                  <AbstractNodeData Name="Image_13" ActionTag="749594401" Tag="207" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="77.8799" RightMargin="599.1201" TopMargin="69.0077" BottomMargin="420.9923" LeftEage="38" RightEage="38" TopEage="9" BottomEage="9" Scale9OriginX="38" Scale9OriginY="9" Scale9Width="41" Scale9Height="12" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_13" ActionTag="749594401" Tag="207" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="77.9092" RightMargin="599.0908" TopMargin="69.0077" BottomMargin="420.9923" LeftEage="38" RightEage="38" TopEage="9" BottomEage="9" Scale9OriginX="38" Scale9OriginY="9" Scale9Width="41" Scale9Height="12" ctype="ImageViewObjectData">
                     <Size X="117.0000" Y="30.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="136.3799" Y="435.9923" />
+                    <Position X="136.4092" Y="435.9923" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.1718" Y="0.8384" />
                     <PreSize X="0.1474" Y="0.0577" />
-                    <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_10.png" Plist="" />
+                    <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_10.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_19" ActionTag="-1069187853" Tag="208" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="16.0001" RightMargin="15.9999" TopMargin="156.5935" BottomMargin="289.4065" LeftEage="251" RightEage="251" TopEage="24" BottomEage="24" Scale9OriginX="251" Scale9OriginY="24" Scale9Width="260" Scale9Height="26" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_19" ActionTag="-1069187853" Tag="208" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="16.0000" RightMargin="16.0000" TopMargin="156.5935" BottomMargin="289.4065" LeftEage="251" RightEage="251" TopEage="24" BottomEage="24" Scale9OriginX="251" Scale9OriginY="24" Scale9Width="260" Scale9Height="26" ctype="ImageViewObjectData">
                     <Size X="762.0000" Y="74.0000" />
                     <Children>
-                      <AbstractNodeData Name="Image_top" ActionTag="-1151356393" Tag="209" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="85.7161" RightMargin="617.2839" TopMargin="8.5001" BottomMargin="8.4999" LeftEage="19" RightEage="19" TopEage="18" BottomEage="18" Scale9OriginX="19" Scale9OriginY="18" Scale9Width="21" Scale9Height="21" ctype="ImageViewObjectData">
+                      <AbstractNodeData Name="Image_top" ActionTag="-1151356393" Tag="209" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="85.7144" RightMargin="617.2856" TopMargin="8.5000" BottomMargin="8.5000" LeftEage="19" RightEage="19" TopEage="18" BottomEage="18" Scale9OriginX="19" Scale9OriginY="18" Scale9Width="21" Scale9Height="21" ctype="ImageViewObjectData">
                         <Size X="59.0000" Y="57.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="115.2161" Y="36.9999" />
+                        <Position X="115.2144" Y="37.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.1512" Y="0.5000" />
                         <PreSize X="0.0774" Y="0.7703" />
-                        <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_a1.png" Plist="" />
+                        <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_a1.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                       </AbstractNodeData>
                       <AbstractNodeData Name="AtlasLabel_later" Visible="False" ActionTag="1976909267" Tag="210" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="98.1140" RightMargin="634.8860" TopMargin="19.0000" BottomMargin="19.0000" CharWidth="29" CharHeight="36" LabelText="4" StartChar="0" ctype="TextAtlasObjectData">
                         <Size X="29.0000" Y="36.0000" />
@@ -515,17 +525,17 @@
                       </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="397.0001" Y="326.4065" />
+                    <Position X="397.0000" Y="326.4065" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.6277" />
                     <PreSize X="0.9597" Y="0.1423" />
-                    <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_13.png" Plist="" />
+                    <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_13.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Text_beatTime" ActionTag="-466891471" Tag="212" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="320.5001" RightMargin="320.4999" TopMargin="251.1542" BottomMargin="243.8458" FontSize="25" LabelText="2017年7月7日" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="Text_beatTime" ActionTag="-466891471" Tag="212" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="320.5000" RightMargin="320.5000" TopMargin="251.1542" BottomMargin="243.8458" FontSize="25" LabelText="2017年7月7日" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="153.0000" Y="25.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="397.0001" Y="256.3458" />
+                    <Position X="397.0000" Y="256.3458" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="137" G="74" B="33" />
                     <PrePosition X="0.5000" Y="0.4930" />
@@ -533,7 +543,7 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Button_share" ActionTag="1623852098" Tag="213" IconVisible="False" LeftMargin="526.5372" RightMargin="19.4628" TopMargin="425.2054" BottomMargin="12.7946" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="218" Scale9Height="60" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                  <AbstractNodeData Name="Button_share" ActionTag="1623852098" CallBackType="Click" CallBackName="onShare" Tag="213" IconVisible="False" LeftMargin="526.5372" RightMargin="19.4628" TopMargin="425.2054" BottomMargin="12.7946" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="218" Scale9Height="60" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="248.0000" Y="82.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="650.5372" Y="53.7946" />
@@ -543,8 +553,8 @@
                     <PreSize X="0.3123" Y="0.1577" />
                     <TextColor A="255" R="65" G="65" B="70" />
                     <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                    <PressedFileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_19.png" Plist="" />
-                    <NormalFileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_19.png" Plist="" />
+                    <PressedFileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_19.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
+                    <NormalFileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_19.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
@@ -555,7 +565,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.2430" Y="0.8606" />
                 <PreSize X="0.7448" Y="0.8307" />
-                <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_14.png" Plist="" />
+                <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_14.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -569,17 +579,17 @@
           <AbstractNodeData Name="Image_awardItem" ActionTag="-933327067" Tag="172" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="17.0100" RightMargin="478.9900" TopMargin="815.6680" BottomMargin="-180.6680" LeftEage="258" RightEage="258" TopEage="28" BottomEage="28" Scale9OriginX="258" Scale9OriginY="28" Scale9Width="268" Scale9Height="29" ctype="ImageViewObjectData">
             <Size X="784.0000" Y="85.0000" />
             <Children>
-              <AbstractNodeData Name="Image_2" ActionTag="-1014711336" Tag="173" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="85.4536" RightMargin="639.5464" TopMargin="14.0000" BottomMargin="14.0000" LeftEage="19" RightEage="19" TopEage="18" BottomEage="18" Scale9OriginX="19" Scale9OriginY="18" Scale9Width="21" Scale9Height="21" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="Image_rankIcon" ActionTag="-1014711336" Tag="173" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="85.4344" RightMargin="639.5656" TopMargin="14.0000" BottomMargin="14.0000" LeftEage="19" RightEage="19" TopEage="18" BottomEage="18" Scale9OriginX="19" Scale9OriginY="18" Scale9Width="21" Scale9Height="21" ctype="ImageViewObjectData">
                 <Size X="59.0000" Y="57.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="114.9536" Y="42.5000" />
+                <Position X="114.9344" Y="42.5000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.1466" Y="0.5000" />
                 <PreSize X="0.0753" Y="0.6706" />
-                <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_a1.png" Plist="" />
+                <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_a1.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="AtlasLabel_1" Visible="False" ActionTag="831869437" Tag="174" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="98.0089" RightMargin="656.9911" TopMargin="24.5000" BottomMargin="24.5000" CharWidth="29" CharHeight="36" LabelText="4" StartChar="0" ctype="TextAtlasObjectData">
+              <AbstractNodeData Name="AtlasLabel_rank" ActionTag="831869437" Tag="174" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="98.0089" RightMargin="656.9911" TopMargin="24.5000" BottomMargin="24.5000" CharWidth="29" CharHeight="36" LabelText="4" StartChar="0" ctype="TextAtlasObjectData">
                 <Size X="29.0000" Y="36.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="112.5089" Y="42.5000" />
@@ -589,13 +599,13 @@
                 <PreSize X="0.0370" Y="0.4235" />
                 <LabelAtlasFileImage_CNB Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_20.png" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Panel_1" ActionTag="666828050" Tag="175" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="204.3083" RightMargin="29.6917" TopMargin="2.5000" BottomMargin="2.5000" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+              <AbstractNodeData Name="Panel_award" ActionTag="666828050" Tag="175" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="204.3083" RightMargin="29.6917" TopMargin="2.5000" BottomMargin="2.5000" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="550.0000" Y="80.0000" />
                 <Children>
-                  <AbstractNodeData Name="Image_6" ActionTag="-1698104500" Tag="176" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="10.6423" RightMargin="489.3577" TopMargin="12.5001" BottomMargin="12.4999" LeftEage="16" RightEage="16" TopEage="18" BottomEage="18" Scale9OriginX="16" Scale9OriginY="18" Scale9Width="18" Scale9Height="19" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_icon1" ActionTag="-1698104500" Tag="176" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="10.6423" RightMargin="489.3577" TopMargin="12.5000" BottomMargin="12.5000" LeftEage="16" RightEage="16" TopEage="18" BottomEage="18" Scale9OriginX="16" Scale9OriginY="18" Scale9Width="18" Scale9Height="19" ctype="ImageViewObjectData">
                     <Size X="50.0000" Y="55.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_1" ActionTag="-98188303" Tag="177" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="54.1329" RightMargin="-82.1329" TopMargin="6.5000" BottomMargin="6.5000" FontSize="30" LabelText="10000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_num1" ActionTag="-98188303" Tag="177" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="54.1329" RightMargin="-82.1329" TopMargin="6.5000" BottomMargin="6.5000" FontSize="30" LabelText="10000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                         <Size X="78.0000" Y="42.0000" />
                         <AnchorPoint ScaleY="0.5000" />
                         <Position X="54.1329" Y="27.5000" />
@@ -609,17 +619,17 @@
                       </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="35.6423" Y="39.9999" />
+                    <Position X="35.6423" Y="40.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.0648" Y="0.5000" />
                     <PreSize X="0.0909" Y="0.6875" />
-                    <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_18.png" Plist="" />
+                    <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_18.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_6_0" ActionTag="1920042791" Tag="178" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="179.6407" RightMargin="320.3593" TopMargin="12.5000" BottomMargin="12.5000" LeftEage="16" RightEage="16" TopEage="18" BottomEage="18" Scale9OriginX="16" Scale9OriginY="18" Scale9Width="18" Scale9Height="19" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_icon2" ActionTag="1920042791" Tag="178" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="179.6407" RightMargin="320.3593" TopMargin="12.5000" BottomMargin="12.5000" LeftEage="16" RightEage="16" TopEage="18" BottomEage="18" Scale9OriginX="16" Scale9OriginY="18" Scale9Width="18" Scale9Height="19" ctype="ImageViewObjectData">
                     <Size X="50.0000" Y="55.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_1" ActionTag="-656302497" Tag="179" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="54.1329" RightMargin="-82.1329" TopMargin="6.5000" BottomMargin="6.5000" FontSize="30" LabelText="10000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_num2" ActionTag="-656302497" Tag="179" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="54.1329" RightMargin="-82.1329" TopMargin="6.5000" BottomMargin="6.5000" FontSize="30" LabelText="10000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                         <Size X="78.0000" Y="42.0000" />
                         <AnchorPoint ScaleY="0.5000" />
                         <Position X="54.1329" Y="27.5000" />
@@ -638,12 +648,12 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.3721" Y="0.5000" />
                     <PreSize X="0.0909" Y="0.6875" />
-                    <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_17.png" Plist="" />
+                    <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_17.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_6_0_0" ActionTag="491981909" Tag="180" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="348.6393" RightMargin="151.3607" TopMargin="12.5000" BottomMargin="12.5000" LeftEage="16" RightEage="16" TopEage="18" BottomEage="18" Scale9OriginX="16" Scale9OriginY="18" Scale9Width="18" Scale9Height="19" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_icon3" ActionTag="491981909" Tag="180" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="348.6393" RightMargin="151.3607" TopMargin="12.5000" BottomMargin="12.5000" LeftEage="16" RightEage="16" TopEage="18" BottomEage="18" Scale9OriginX="16" Scale9OriginY="18" Scale9Width="18" Scale9Height="19" ctype="ImageViewObjectData">
                     <Size X="50.0000" Y="55.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_1" ActionTag="675706336" Tag="181" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="54.1329" RightMargin="-82.1329" TopMargin="6.5000" BottomMargin="6.5000" FontSize="30" LabelText="10000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_num3" ActionTag="675706336" Tag="181" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="54.1329" RightMargin="-82.1329" TopMargin="6.5000" BottomMargin="6.5000" FontSize="30" LabelText="10000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                         <Size X="78.0000" Y="42.0000" />
                         <AnchorPoint ScaleY="0.5000" />
                         <Position X="54.1329" Y="27.5000" />
@@ -662,7 +672,7 @@
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.6793" Y="0.5000" />
                     <PreSize X="0.0909" Y="0.6875" />
-                    <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_17.png" Plist="" />
+                    <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_17.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -683,7 +693,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.3195" Y="-0.1919" />
             <PreSize X="0.6125" Y="0.1181" />
-            <FileData Type="Normal" Path="app/part/mjmatch/detail/res/detailMatch_12.png" Plist="" />
+            <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_12.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

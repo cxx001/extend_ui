@@ -39,6 +39,7 @@
                   <Image Name="detailMatch_a2.png" />
                   <Image Name="detailMatch_a3.png" />
                   <Project Name="DetailMatchLayer-UI.csd" Type="Layer" />
+                  <PlistInfo Name="match_detail_picture.csi" Type="Plist" />
                 </Folder>
               </Folder>
               <Folder Name="select">

@@ -1,0 +1,29 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="match_detail_picture" Type="Plist" ID="fbd0467d-1c4d-46e4-9876-d1d1113a50f2" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_1.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_10.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_11.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_12.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_13.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_14.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_15.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_17.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_18.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_19.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_2.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_3.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_4.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_5.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_6.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_7.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_8.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_9.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_a1.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_a2.png" />
+      <FilePathData Path="app/part/mjmatch/detail/res/detailMatch_a3.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
