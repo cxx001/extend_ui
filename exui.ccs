@@ -42,6 +42,40 @@
                   <PlistInfo Name="match_detail_picture.csi" Type="Plist" />
                 </Folder>
               </Folder>
+              <Folder Name="readyMatch">
+                <Folder Name="res">
+                  <Folder Name="effect_baicaishen">
+                    <File Name="baicaishen.atlas" />
+                    <Image Name="baicaishen.png" />
+                    <File Name="baicaishen.skel" />
+                    <Image Name="baicaishen2.png" />
+                    <Image Name="baicaishen3.png" />
+                  </Folder>
+                  <Folder Name="effect_xixishou">
+                    <File Name="xixishou.atlas" />
+                    <Image Name="xixishou.png" />
+                    <File Name="xixishou.skel" />
+                    <Image Name="xixishou2.png" />
+                    <Image Name="xixishou3.png" />
+                    <Image Name="xixishou4.png" />
+                    <Image Name="xixishou5.png" />
+                    <Image Name="xixishou6.png" />
+                    <Image Name="xixishou7.png" />
+                    <Image Name="xixishou8.png" />
+                    <Image Name="xixishou9.png" />
+                  </Folder>
+                  <Image Name="frame_mid.png" />
+                  <Image Name="frame_num.png" />
+                  <Image Name="readyMatch_1.png" />
+                  <Image Name="readyMatch_2.png" />
+                  <Image Name="readyMatch_3.png" />
+                  <Image Name="readyMatch_4.png" />
+                  <Image Name="readyMatch_5.png" />
+                  <PlistInfo Name="readyMatch_picture.csi" Type="Plist" />
+                  <Project Name="readyMatchLayer-UI.csd" Type="Layer" />
+                  <Image Name="zhuozi.jpg" />
+                </Folder>
+              </Folder>
               <Folder Name="select">
                 <Folder Name="res">
                   <PlistInfo Name="match_select_picture.csi" Type="Plist" />
@@ -59,6 +93,7 @@
                   <Image Name="selectMatch_24.png" />
                   <Image Name="selectMatch_25.png" />
                   <Image Name="selectMatch_3.png" />
+                  <Image Name="selectMatch_3_1.png" />
                   <Image Name="selectMatch_33.png" />
                   <Image Name="selectMatch_34.png" />
                   <Image Name="selectMatch_35.png" />
