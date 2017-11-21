@@ -1,0 +1,33 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="scoreMatch_picture" Type="Plist" ID="2babd192-cf6f-4366-8fe2-9b69bac57253" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_1.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_10.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_11.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_12.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_13.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_14.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_16.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_17.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_18.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_2.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_20.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_21.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_22.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_23.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_24.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_25.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_26.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_3.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_4.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_5.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_6.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_9.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_t1.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_t2.png" />
+      <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_t3.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
