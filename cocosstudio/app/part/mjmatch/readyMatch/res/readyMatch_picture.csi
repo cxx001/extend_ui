@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="readyMatch_picture" Type="Plist" ID="f9e0f6f9-0ab6-4145-9d87-08a696ff7653" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="app/part/mjmatch/readyMatch/res/frame_num.png" />
+      <FilePathData Path="app/part/mjmatch/readyMatch/res/frame_mid.png" />
+      <FilePathData Path="app/part/mjmatch/readyMatch/res/readyMatch_1.png" />
+      <FilePathData Path="app/part/mjmatch/readyMatch/res/readyMatch_2.png" />
+      <FilePathData Path="app/part/mjmatch/readyMatch/res/readyMatch_3.png" />
+      <FilePathData Path="app/part/mjmatch/readyMatch/res/readyMatch_4.png" />
+      <FilePathData Path="app/part/mjmatch/readyMatch/res/readyMatch_5.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
