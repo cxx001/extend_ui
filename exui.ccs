@@ -76,6 +76,41 @@
                   <Image Name="zhuozi.jpg" />
                 </Folder>
               </Folder>
+              <Folder Name="scoreMatch">
+                <Folder Name="res">
+                  <Image Name="scoreMatch_1.png" />
+                  <Image Name="scoreMatch_10.png" />
+                  <Image Name="scoreMatch_11.png" />
+                  <Image Name="scoreMatch_12.png" />
+                  <Image Name="scoreMatch_13.png" />
+                  <Image Name="scoreMatch_14.png" />
+                  <Image Name="scoreMatch_15.png" />
+                  <Image Name="scoreMatch_16.png" />
+                  <Image Name="scoreMatch_17.png" />
+                  <Image Name="scoreMatch_18.png" />
+                  <Image Name="scoreMatch_19.png" />
+                  <Image Name="scoreMatch_2.png" />
+                  <Image Name="scoreMatch_20.png" />
+                  <Image Name="scoreMatch_21.png" />
+                  <Image Name="scoreMatch_22.png" />
+                  <Image Name="scoreMatch_23.png" />
+                  <Image Name="scoreMatch_24.png" />
+                  <Image Name="scoreMatch_25.png" />
+                  <Image Name="scoreMatch_26.png" />
+                  <Image Name="scoreMatch_3.png" />
+                  <Image Name="scoreMatch_4.png" />
+                  <Image Name="scoreMatch_5.png" />
+                  <Image Name="scoreMatch_6.png" />
+                  <Image Name="scoreMatch_7.png" />
+                  <Image Name="scoreMatch_8.png" />
+                  <Image Name="scoreMatch_9.png" />
+                  <PlistInfo Name="scoreMatch_picture.csi" Type="Plist" />
+                  <Image Name="scoreMatch_t1.png" />
+                  <Image Name="scoreMatch_t2.png" />
+                  <Image Name="scoreMatch_t3.png" />
+                  <Project Name="ScoreMatchLayer-UI.csd" Type="Layer" />
+                </Folder>
+              </Folder>
               <Folder Name="select">
                 <Folder Name="res">
                   <PlistInfo Name="match_select_picture.csi" Type="Plist" />
