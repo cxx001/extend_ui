@@ -164,7 +164,7 @@
                 <PreSize X="0.2176" Y="0.8307" />
                 <FileData Type="MarkedSubImage" Path="app/part/mjmatch/scoreMatch/res/scoreMatch_9.png" Plist="app/part/mjmatch/scoreMatch/res/scoreMatch_picture.plist" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Panel_score" ActionTag="972538036" Tag="327" IconVisible="False" LeftMargin="259.0200" RightMargin="12.9800" TopMargin="86.6800" BottomMargin="19.3200" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+              <AbstractNodeData Name="Panel_score" ActionTag="972538036" Tag="327" IconVisible="False" LeftMargin="259.0200" RightMargin="12.9800" TopMargin="86.6800" BottomMargin="19.3200" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="794.0000" Y="520.0000" />
                 <Children>
                   <AbstractNodeData Name="Image_55" ActionTag="931716074" Tag="328" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="15.5000" RightMargin="15.5000" TopMargin="0.2301" BottomMargin="469.7699" LeftEage="251" RightEage="251" TopEage="16" BottomEage="16" Scale9OriginX="251" Scale9OriginY="16" Scale9Width="261" Scale9Height="18" ctype="ImageViewObjectData">
@@ -194,10 +194,10 @@
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="Text_46_0_0" ActionTag="309328604" Tag="331" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="632.5354" RightMargin="71.4646" TopMargin="5.5000" BottomMargin="5.5000" FontSize="28" LabelText="积分" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_46_0_0" ActionTag="309328604" Tag="331" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="632.5551" RightMargin="71.4449" TopMargin="5.5000" BottomMargin="5.5000" FontSize="28" LabelText="积分" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                         <Size X="59.0000" Y="39.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="662.0354" Y="25.0000" />
+                        <Position X="662.0551" Y="25.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.8677" Y="0.5000" />
@@ -215,10 +215,10 @@
                     <PreSize X="0.9610" Y="0.0962" />
                     <FileData Type="MarkedSubImage" Path="app/part/mjmatch/scoreMatch/res/scoreMatch_18.png" Plist="app/part/mjmatch/scoreMatch/res/scoreMatch_picture.plist" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="ListView_score" ActionTag="-378949047" Tag="332" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="15.9999" RightMargin="16.0001" TopMargin="60.7122" BottomMargin="59.2879" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" ScrollDirectionType="0" ItemMargin="3" DirectionType="Vertical" ctype="ListViewObjectData">
+                  <AbstractNodeData Name="ListView_score" ActionTag="-378949047" Tag="332" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="16.0000" RightMargin="16.0000" TopMargin="60.7121" BottomMargin="59.2879" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ScrollDirectionType="0" ItemMargin="3" DirectionType="Vertical" ctype="ListViewObjectData">
                     <Size X="762.0000" Y="400.0000" />
                     <AnchorPoint ScaleX="0.5000" />
-                    <Position X="396.9999" Y="59.2879" />
+                    <Position X="397.0000" Y="59.2879" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.1140" />
@@ -228,27 +228,27 @@
                     <EndColor A="255" R="255" G="255" B="255" />
                     <ColorVector ScaleY="1.0000" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_56" ActionTag="1058604559" Tag="333" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-367.1451" RightMargin="-118.8549" TopMargin="-153.9064" BottomMargin="-46.0936" LeftEage="422" RightEage="422" TopEage="237" BottomEage="237" Scale9OriginX="422" Scale9OriginY="237" Scale9Width="436" Scale9Height="246" ctype="ImageViewObjectData">
-                    <Size X="1280.0000" Y="720.0000" />
+                  <AbstractNodeData Name="Image_56" ActionTag="1058604559" Tag="333" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.0000" RightMargin="44.0000" TopMargin="470.7090" BottomMargin="-0.7090" LeftEage="232" RightEage="232" TopEage="16" BottomEage="16" Scale9OriginX="232" Scale9OriginY="16" Scale9Width="242" Scale9Height="18" ctype="ImageViewObjectData">
+                    <Size X="706.0000" Y="50.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_scoreTips" ActionTag="92941014" Tag="334" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="386.5602" RightMargin="137.4398" TopMargin="635.0624" BottomMargin="56.9376" FontSize="28" LabelText="【第一轮完成局数0/1】本轮结束后，本桌将淘汰分数低的2人" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_scoreTips" ActionTag="92941014" Tag="334" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-25.0000" RightMargin="-25.0000" TopMargin="11.0000" BottomMargin="11.0000" FontSize="28" LabelText="【第一轮完成局数0/1】本轮结束后，本桌将淘汰分数低的2人" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                         <Size X="756.0000" Y="28.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="764.5602" Y="70.9376" />
+                        <Position X="353.0000" Y="25.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="192" B="0" />
-                        <PrePosition X="0.5973" Y="0.0985" />
-                        <PreSize X="0.5906" Y="0.0389" />
+                        <PrePosition X="0.5000" Y="0.5000" />
+                        <PreSize X="1.0708" Y="0.5600" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="272.8549" Y="313.9064" />
+                    <Position X="397.0000" Y="24.2910" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.3436" Y="0.6037" />
-                    <PreSize X="1.6121" Y="1.3846" />
+                    <PrePosition X="0.5000" Y="0.0467" />
+                    <PreSize X="0.8892" Y="0.0962" />
                     <FileData Type="Normal" Path="app/part/mjmatch/scoreMatch/res/scoreMatch_19.png" Plist="" />
                   </AbstractNodeData>
                 </Children>
@@ -329,7 +329,7 @@
             <PreSize X="0.8328" Y="0.8694" />
             <FileData Type="Normal" Path="app/part/mjmatch/scoreMatch/res/scoreMatch_8.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_rankItem" ActionTag="-1804946576" Tag="200" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="-3.5937" RightMargin="521.5936" TopMargin="813.4813" BottomMargin="-167.4813" LeftEage="258" RightEage="258" TopEage="28" BottomEage="28" Scale9OriginX="258" Scale9OriginY="28" Scale9Width="246" Scale9Height="18" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Image_rankItem" ActionTag="-1804946576" Tag="200" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="-3.5937" RightMargin="521.5937" TopMargin="813.4640" BottomMargin="-167.4640" LeftEage="258" RightEage="258" TopEage="28" BottomEage="28" Scale9OriginX="258" Scale9OriginY="28" Scale9Width="246" Scale9Height="18" ctype="ImageViewObjectData">
             <Size X="762.0000" Y="74.0000" />
             <Children>
               <AbstractNodeData Name="Image_rankIcon" ActionTag="979136853" Tag="201" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="82.2092" RightMargin="620.7908" TopMargin="8.5000" BottomMargin="8.5000" LeftEage="19" RightEage="19" TopEage="18" BottomEage="18" Scale9OriginX="19" Scale9OriginY="18" Scale9Width="21" Scale9Height="21" ctype="ImageViewObjectData">
@@ -364,10 +364,10 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Text_score" ActionTag="-1637124792" Tag="258" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="630.0233" RightMargin="72.9767" TopMargin="17.5000" BottomMargin="17.5000" FontSize="28" LabelText="0000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+              <AbstractNodeData Name="Text_score" ActionTag="-1637124792" Tag="258" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="630.0110" RightMargin="72.9890" TopMargin="17.5000" BottomMargin="17.5000" FontSize="28" LabelText="0000" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                 <Size X="59.0000" Y="39.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="659.5233" Y="37.0000" />
+                <Position X="659.5110" Y="37.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="94" G="56" B="19" />
                 <PrePosition X="0.8655" Y="0.5000" />
@@ -378,14 +378,14 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="377.4063" Y="-130.4813" />
+            <Position X="377.4063" Y="-130.4640" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.2948" Y="-0.1812" />
             <PreSize X="0.5953" Y="0.1028" />
             <FileData Type="MarkedSubImage" Path="app/part/mjmatch/scoreMatch/res/scoreMatch_20.png" Plist="app/part/mjmatch/scoreMatch/res/scoreMatch_picture.plist" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_awardItem" ActionTag="1151481603" Tag="317" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="922.3885" RightMargin="-426.3885" TopMargin="815.6707" BottomMargin="-180.6706" LeftEage="258" RightEage="258" TopEage="28" BottomEage="28" Scale9OriginX="258" Scale9OriginY="28" Scale9Width="268" Scale9Height="29" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Image_awardItem" ActionTag="1151481603" Tag="317" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="922.3885" RightMargin="-426.3885" TopMargin="815.6680" BottomMargin="-180.6680" LeftEage="258" RightEage="258" TopEage="28" BottomEage="28" Scale9OriginX="258" Scale9OriginY="28" Scale9Width="268" Scale9Height="29" ctype="ImageViewObjectData">
             <Size X="784.0000" Y="85.0000" />
             <Children>
               <AbstractNodeData Name="Image_rankIcon" ActionTag="-1637433514" Tag="318" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="85.4344" RightMargin="639.5656" TopMargin="14.0000" BottomMargin="14.0000" LeftEage="19" RightEage="19" TopEage="18" BottomEage="18" Scale9OriginX="19" Scale9OriginY="18" Scale9Width="21" Scale9Height="21" ctype="ImageViewObjectData">
@@ -497,7 +497,7 @@
               </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="1314.3885" Y="-138.1706" />
+            <Position X="1314.3885" Y="-138.1680" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="1.0269" Y="-0.1919" />
