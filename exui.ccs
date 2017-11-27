@@ -64,12 +64,14 @@
                     <Image Name="xixishou8.png" />
                     <Image Name="xixishou9.png" />
                   </Folder>
+                  <Image Name="btn_normal_green.png" />
+                  <Image Name="btn_normal_yellow.png" />
+                  <Image Name="font_bcs.png" />
+                  <Image Name="font_xx.png" />
                   <Image Name="frame_mid.png" />
                   <Image Name="frame_num.png" />
                   <Image Name="readyMatch_1.png" />
                   <Image Name="readyMatch_2.png" />
-                  <Image Name="readyMatch_3.png" />
-                  <Image Name="readyMatch_4.png" />
                   <Image Name="readyMatch_5.png" />
                   <PlistInfo Name="readyMatch_picture.csi" Type="Plist" />
                   <Project Name="readyMatchLayer-UI.csd" Type="Layer" />

@@ -31,10 +31,10 @@
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
         <OpenedDocuments>
-          <FilePathData Path="app/part/mjmatch/scoreMatch/res/ScoreMatchLayer-UI.csd" />
-          <FilePathData Path="app/part/mjmatch/scoreMatch/res/scoreMatch_picture.csi" />
+          <FilePathData Path="app/part/mjmatch/readyMatch/res/readyMatchLayer-UI.csd" />
+          <FilePathData Path="app/part/mjmatch/readyMatch/res/readyMatch_picture.csi" />
         </OpenedDocuments>
-        <ActiveDocument Path="app/part/mjmatch/scoreMatch/res/ScoreMatchLayer-UI.csd" />
+        <ActiveDocument Path="app/part/mjmatch/readyMatch/res/readyMatch_picture.csi" />
       </Value>
     </Item>
   </Properties>

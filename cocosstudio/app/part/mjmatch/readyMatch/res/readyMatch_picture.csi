@@ -6,9 +6,11 @@
       <FilePathData Path="app/part/mjmatch/readyMatch/res/frame_mid.png" />
       <FilePathData Path="app/part/mjmatch/readyMatch/res/readyMatch_1.png" />
       <FilePathData Path="app/part/mjmatch/readyMatch/res/readyMatch_2.png" />
-      <FilePathData Path="app/part/mjmatch/readyMatch/res/readyMatch_3.png" />
-      <FilePathData Path="app/part/mjmatch/readyMatch/res/readyMatch_4.png" />
       <FilePathData Path="app/part/mjmatch/readyMatch/res/readyMatch_5.png" />
+      <FilePathData Path="app/part/mjmatch/readyMatch/res/btn_normal_green.png" />
+      <FilePathData Path="app/part/mjmatch/readyMatch/res/btn_normal_yellow.png" />
+      <FilePathData Path="app/part/mjmatch/readyMatch/res/font_bcs.png" />
+      <FilePathData Path="app/part/mjmatch/readyMatch/res/font_xx.png" />
     </ImageFiles>
     <MaxSize Width="1024" Height="1024" />
   </Content>
