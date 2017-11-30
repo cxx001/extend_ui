@@ -11,6 +11,8 @@
       <FilePathData Path="app/part/mjmatch/readyMatch/res/btn_normal_yellow.png" />
       <FilePathData Path="app/part/mjmatch/readyMatch/res/font_bcs.png" />
       <FilePathData Path="app/part/mjmatch/readyMatch/res/font_xx.png" />
+      <FilePathData Path="app/part/mjmatch/readyMatch/res/btn_click_green.png" />
+      <FilePathData Path="app/part/mjmatch/readyMatch/res/btn_click_yellow.png" />
     </ImageFiles>
     <MaxSize Width="1024" Height="1024" />
   </Content>

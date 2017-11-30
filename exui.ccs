@@ -64,6 +64,8 @@
                     <Image Name="xixishou8.png" />
                     <Image Name="xixishou9.png" />
                   </Folder>
+                  <Image Name="btn_click_green.png" />
+                  <Image Name="btn_click_yellow.png" />
                   <Image Name="btn_normal_green.png" />
                   <Image Name="btn_normal_yellow.png" />
                   <Image Name="font_bcs.png" />
