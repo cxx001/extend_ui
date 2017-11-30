@@ -314,31 +314,7 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Text_6" ActionTag="1258637874" Tag="60" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="TopEdge" LeftMargin="25.0000" RightMargin="629.0000" TopMargin="283.7504" BottomMargin="118.2496" FontSize="28" LabelText="开放时间：" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="140.0000" Y="28.0000" />
-                    <Children>
-                      <AbstractNodeData Name="Text_openTime" ActionTag="1027145735" Tag="61" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="133.9940" RightMargin="-231.9940" FontSize="28" LabelText="11月11日-11月12日" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                        <Size X="238.0000" Y="28.0000" />
-                        <AnchorPoint ScaleY="0.5000" />
-                        <Position X="133.9940" Y="14.0000" />
-                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="106" G="51" B="10" />
-                        <PrePosition X="0.9571" Y="0.5000" />
-                        <PreSize X="1.7000" Y="1.0000" />
-                        <OutlineColor A="255" R="255" G="0" B="0" />
-                        <ShadowColor A="255" R="110" G="110" B="110" />
-                      </AbstractNodeData>
-                    </Children>
-                    <AnchorPoint ScaleY="0.5000" />
-                    <Position X="25.0000" Y="132.2496" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                    <CColor A="255" R="106" G="51" B="10" />
-                    <PrePosition X="0.0315" Y="0.3076" />
-                    <PreSize X="0.1763" Y="0.0651" />
-                    <OutlineColor A="255" R="255" G="0" B="0" />
-                    <ShadowColor A="255" R="110" G="110" B="110" />
-                  </AbstractNodeData>
-                  <AbstractNodeData Name="Text_timeItem" ActionTag="435786850" Tag="62" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="TopEdge" LeftMargin="25.0000" RightMargin="629.0000" TopMargin="318.8412" BottomMargin="83.1588" FontSize="28" LabelText="开赛时间：" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="Text_timeItem" ActionTag="435786850" Tag="62" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="TopEdge" LeftMargin="25.0000" RightMargin="629.0000" TopMargin="281.8410" BottomMargin="120.1590" FontSize="28" LabelText="开赛时间：" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="140.0000" Y="28.0000" />
                     <Children>
                       <AbstractNodeData Name="Text_matchTime" ActionTag="1767627131" Tag="63" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="133.9940" RightMargin="-329.9940" FontSize="28" LabelText="10:00-23:00 每30分钟一场" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -354,10 +330,10 @@
                       </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleY="0.5000" />
-                    <Position X="25.0000" Y="97.1588" />
+                    <Position X="25.0000" Y="134.1590" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="106" G="51" B="10" />
-                    <PrePosition X="0.0315" Y="0.2260" />
+                    <PrePosition X="0.0315" Y="0.3120" />
                     <PreSize X="0.1763" Y="0.0651" />
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
@@ -386,10 +362,10 @@
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="AtlasLabel_preTime" ActionTag="-1877252965" Tag="49" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="52.0016" RightMargin="89.9984" TopMargin="53.5020" BottomMargin="19.4980" CharWidth="12" CharHeight="17" LabelText="15" StartChar="0" ctype="TextAtlasObjectData">
+                      <AbstractNodeData Name="AtlasLabel_preTime" ActionTag="-1877252965" Tag="49" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="52.0096" RightMargin="89.9904" TopMargin="53.5010" BottomMargin="19.4990" CharWidth="12" CharHeight="17" LabelText="15" StartChar="0" ctype="TextAtlasObjectData">
                         <Size X="24.0000" Y="17.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="64.0016" Y="27.9980" />
+                        <Position X="64.0096" Y="27.9990" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.3856" Y="0.3111" />
@@ -479,19 +455,30 @@
               <AbstractNodeData Name="Image_rootBest" Visible="False" ActionTag="1406509191" Tag="204" IconVisible="False" LeftMargin="259.0200" RightMargin="12.9800" TopMargin="87.2700" BottomMargin="18.7300" Scale9Enable="True" LeftEage="16" RightEage="16" TopEage="16" BottomEage="16" Scale9OriginX="16" Scale9OriginY="16" Scale9Width="18" Scale9Height="18" ctype="ImageViewObjectData">
                 <Size X="794.0000" Y="520.0000" />
                 <Children>
-                  <AbstractNodeData Name="Image_13" ActionTag="749594401" Tag="207" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="77.9092" RightMargin="599.0908" TopMargin="69.0077" BottomMargin="420.9923" LeftEage="38" RightEage="38" TopEage="9" BottomEage="9" Scale9OriginX="38" Scale9OriginY="9" Scale9Width="41" Scale9Height="12" ctype="ImageViewObjectData">
-                    <Size X="117.0000" Y="30.0000" />
+                  <AbstractNodeData Name="Text_noBest" Visible="False" ActionTag="-407565025" Tag="104" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="327.0000" RightMargin="327.0000" TopMargin="242.5000" BottomMargin="242.5000" FontSize="35" LabelText="暂无战绩" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                    <Size X="140.0000" Y="35.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="136.4092" Y="435.9923" />
+                    <Position X="397.0000" Y="260.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                    <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.1718" Y="0.8384" />
-                    <PreSize X="0.1474" Y="0.0577" />
-                    <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_10.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
+                    <CColor A="255" R="139" G="40" B="8" />
+                    <PrePosition X="0.5000" Y="0.5000" />
+                    <PreSize X="0.1763" Y="0.0673" />
+                    <OutlineColor A="255" R="255" G="0" B="0" />
+                    <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_19" ActionTag="-1069187853" Tag="208" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="16.0000" RightMargin="16.0000" TopMargin="156.5935" BottomMargin="289.4065" LeftEage="251" RightEage="251" TopEage="24" BottomEage="24" Scale9OriginX="251" Scale9OriginY="24" Scale9Width="260" Scale9Height="26" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_bestFrame" ActionTag="-1069187853" Tag="208" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="16.0000" RightMargin="16.0000" TopMargin="156.5935" BottomMargin="289.4065" LeftEage="251" RightEage="251" TopEage="24" BottomEage="24" Scale9OriginX="251" Scale9OriginY="24" Scale9Width="260" Scale9Height="26" ctype="ImageViewObjectData">
                     <Size X="762.0000" Y="74.0000" />
                     <Children>
+                      <AbstractNodeData Name="Image_13" ActionTag="749594401" Tag="207" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="46.9961" RightMargin="598.0038" TopMargin="-91.9518" BottomMargin="135.9518" LeftEage="38" RightEage="38" TopEage="9" BottomEage="9" Scale9OriginX="38" Scale9OriginY="9" Scale9Width="41" Scale9Height="12" ctype="ImageViewObjectData">
+                        <Size X="117.0000" Y="30.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="105.4961" Y="150.9518" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.1384" Y="2.0399" />
+                        <PreSize X="0.1535" Y="0.4054" />
+                        <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_10.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
+                      </AbstractNodeData>
                       <AbstractNodeData Name="Image_top" ActionTag="-1151356393" Tag="209" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="85.7144" RightMargin="617.2856" TopMargin="8.5000" BottomMargin="8.5000" LeftEage="19" RightEage="19" TopEage="18" BottomEage="18" Scale9OriginX="19" Scale9OriginY="18" Scale9Width="21" Scale9Height="21" ctype="ImageViewObjectData">
                         <Size X="59.0000" Y="57.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -523,6 +510,32 @@
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
+                      <AbstractNodeData Name="Text_beatTime" ActionTag="-466891471" Tag="212" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="304.4999" RightMargin="304.5001" TopMargin="89.4973" BottomMargin="-40.4973" FontSize="25" LabelText="2017年7月7日" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="153.0000" Y="25.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="380.9999" Y="-27.9973" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="137" G="74" B="33" />
+                        <PrePosition X="0.5000" Y="-0.3783" />
+                        <PreSize X="0.2008" Y="0.3378" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
+                      <AbstractNodeData Name="Button_share" ActionTag="1623852098" CallBackType="Click" CallBackName="onShare" Tag="213" IconVisible="False" LeftMargin="512.8298" RightMargin="1.1702" TopMargin="267.6481" BottomMargin="-275.6481" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="218" Scale9Height="60" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                        <Size X="248.0000" Y="82.0000" />
+                        <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                        <Position X="636.8298" Y="-234.6481" />
+                        <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.8357" Y="-3.1709" />
+                        <PreSize X="0.3255" Y="1.1081" />
+                        <TextColor A="255" R="65" G="65" B="70" />
+                        <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+                        <PressedFileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_19.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
+                        <NormalFileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_19.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
+                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <ShadowColor A="255" R="110" G="110" B="110" />
+                      </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="397.0000" Y="326.4065" />
@@ -531,32 +544,6 @@
                     <PrePosition X="0.5000" Y="0.6277" />
                     <PreSize X="0.9597" Y="0.1423" />
                     <FileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_13.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
-                  </AbstractNodeData>
-                  <AbstractNodeData Name="Text_beatTime" ActionTag="-466891471" Tag="212" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="320.5000" RightMargin="320.5000" TopMargin="251.1542" BottomMargin="243.8458" FontSize="25" LabelText="2017年7月7日" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="153.0000" Y="25.0000" />
-                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="397.0000" Y="256.3458" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                    <CColor A="255" R="137" G="74" B="33" />
-                    <PrePosition X="0.5000" Y="0.4930" />
-                    <PreSize X="0.1927" Y="0.0481" />
-                    <OutlineColor A="255" R="255" G="0" B="0" />
-                    <ShadowColor A="255" R="110" G="110" B="110" />
-                  </AbstractNodeData>
-                  <AbstractNodeData Name="Button_share" ActionTag="1623852098" CallBackType="Click" CallBackName="onShare" Tag="213" IconVisible="False" LeftMargin="526.5372" RightMargin="19.4628" TopMargin="425.2054" BottomMargin="12.7946" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="218" Scale9Height="60" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-                    <Size X="248.0000" Y="82.0000" />
-                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="650.5372" Y="53.7946" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                    <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.8193" Y="0.1035" />
-                    <PreSize X="0.3123" Y="0.1577" />
-                    <TextColor A="255" R="65" G="65" B="70" />
-                    <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                    <PressedFileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_19.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
-                    <NormalFileData Type="MarkedSubImage" Path="app/part/mjmatch/detail/res/detailMatch_19.png" Plist="app/part/mjmatch/detail/res/match_detail_picture.plist" />
-                    <OutlineColor A="255" R="255" G="0" B="0" />
-                    <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleY="1.0000" />

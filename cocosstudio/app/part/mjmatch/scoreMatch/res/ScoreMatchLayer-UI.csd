@@ -228,23 +228,23 @@
                     <EndColor A="255" R="255" G="255" B="255" />
                     <ColorVector ScaleY="1.0000" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Image_56" ActionTag="1058604559" Tag="333" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.0000" RightMargin="44.0000" TopMargin="470.7090" BottomMargin="-0.7090" LeftEage="232" RightEage="232" TopEage="16" BottomEage="16" Scale9OriginX="232" Scale9OriginY="16" Scale9Width="242" Scale9Height="18" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="Image_56" ActionTag="1058604559" Tag="333" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="44.0000" RightMargin="44.0000" TopMargin="470.7160" BottomMargin="-0.7160" LeftEage="232" RightEage="232" TopEage="16" BottomEage="16" Scale9OriginX="232" Scale9OriginY="16" Scale9Width="242" Scale9Height="18" ctype="ImageViewObjectData">
                     <Size X="706.0000" Y="50.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_scoreTips" ActionTag="92941014" Tag="334" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-25.0000" RightMargin="-25.0000" TopMargin="11.0000" BottomMargin="11.0000" FontSize="28" LabelText="【第一轮完成局数0/1】本轮结束后，本桌将淘汰分数低的2人" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                        <Size X="756.0000" Y="28.0000" />
+                      <AbstractNodeData Name="Text_scoreTips" ActionTag="92941014" Tag="334" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="45.0000" RightMargin="45.0000" TopMargin="11.0000" BottomMargin="11.0000" FontSize="28" LabelText="【局数0/1】本轮结束后，本桌将淘汰分数低的2人" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="616.0000" Y="28.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="353.0000" Y="25.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="192" B="0" />
                         <PrePosition X="0.5000" Y="0.5000" />
-                        <PreSize X="1.0708" Y="0.5600" />
+                        <PreSize X="0.8725" Y="0.5600" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="397.0000" Y="24.2910" />
+                    <Position X="397.0000" Y="24.2840" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.0467" />
