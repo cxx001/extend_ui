@@ -27,14 +27,14 @@
               <AbstractNodeData Name="Image_3" ActionTag="-1989561476" Tag="212" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="111.5000" RightMargin="111.5000" TopMargin="-16.9619" BottomMargin="545.9619" LeftEage="278" RightEage="278" TopEage="32" BottomEage="32" Scale9OriginX="278" Scale9OriginY="32" Scale9Width="287" Scale9Height="33" ctype="ImageViewObjectData">
                 <Size X="843.0000" Y="97.0000" />
                 <Children>
-                  <AbstractNodeData Name="Image_4" ActionTag="-1969635455" Tag="213" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="328.5000" RightMargin="328.5000" TopMargin="12.4993" BottomMargin="32.5007" LeftEage="61" RightEage="61" TopEage="17" BottomEage="17" Scale9OriginX="61" Scale9OriginY="17" Scale9Width="64" Scale9Height="18" ctype="ImageViewObjectData">
-                    <Size X="186.0000" Y="52.0000" />
+                  <AbstractNodeData Name="Image_4" ActionTag="-1969635455" Tag="213" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="376.5000" RightMargin="376.5000" TopMargin="12.4993" BottomMargin="32.5007" LeftEage="29" RightEage="29" TopEage="17" BottomEage="17" Scale9OriginX="29" Scale9OriginY="17" Scale9Width="32" Scale9Height="18" ctype="ImageViewObjectData">
+                    <Size X="90.0000" Y="52.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="421.5000" Y="58.5007" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.5000" Y="0.6031" />
-                    <PreSize X="0.2206" Y="0.5361" />
+                    <PreSize X="0.1068" Y="0.5361" />
                     <FileData Type="MarkedSubImage" Path="app/part/mjmatch/scoreMatch/res/scoreMatch_17.png" Plist="app/part/mjmatch/scoreMatch/res/scoreMatch_picture.plist" />
                   </AbstractNodeData>
                 </Children>
